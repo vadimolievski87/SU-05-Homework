@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    display: block;
+    width: 488px;
+    height: 464px;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.top {
+background-color: lightskyblue;
+width: 486px;
+height: 86px;
+
+}
+
+.middle {
+    background-color: lightgray;
+    width: 486px;
+    height: 220px;
+}
+.b1 {
+    background-color: lightcoral;
+    width: 103px;
+    height: 132px;
+    margin-left: 60px;
+    float: left;
+}
+.b2 {
+    background-color: goldenrod;
+    width: 255px;
+    height: 220px;
+    float: right;
+    margin-right: 68px;
+    
+    
+
+}
+.frame {
+
+    border: 1px solid black;
+    width: 103px;
+    height: 76px;
+    margin-left: 12px;
+    margin-top: 16px;
+    border-radius: 2px;
+    float: left;
+    
+}
+img {
+    width: 101px;
+    height: 74px;
+
+}
+p {
+    position: relative;
+    font-size: 10px;
+    
+    
+}
+
+.low {
+    background-color: lightblue;
+    width: 486px;
+    height: 156px;
+    
+}
+.first {
+
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 9px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.second {
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.third {
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.fourth {
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 9px;
+    
+    
+}
+.fifth {
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 10px;
+   
+    
+}
+.sixth {
+    width: 150px;
+    height: 64px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 10px;
+    
+    
+}
